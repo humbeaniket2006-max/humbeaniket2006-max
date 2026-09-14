@@ -4,7 +4,7 @@ Data Science student at IIT Madras. Building at the Institute of Venture Buildin
 
 ---
 
-**Currently building:** automation and AI-agent tooling for Hexalog, including Meta/Freshsales CRM pipelines, a Freshworks MCP server, and a weekly ad-reporting service in TypeScript. Also working on [EHMR AI](https://github.com/humbeaniket2006-max/My_EHMR), a full-stack healthcare platform, and a CRM lead-capture microservice.
+**Currently building:** automation and AI-agent tooling at Hexalog, alongside [EHMR AI](https://github.com/humbeaniket2006-max/My_EHMR), a full-stack healthcare platform, and a few smaller full-stack services.
 
 ---
 
