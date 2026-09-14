@@ -35,13 +35,6 @@ Data Science student at IIT Madras. Building at the Institute of Venture Buildin
 
 ---
 
-### GitHub stats
-
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=humbeaniket2006-max&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humbeaniket2006-max&layout=compact&hide_border=true&theme=default)
-
----
-
 ### Contact
 
 [GitHub](https://github.com/humbeaniket2006-max) · [aniket.humbe@hexalog.in](mailto:aniket.humbe@hexalog.in)
