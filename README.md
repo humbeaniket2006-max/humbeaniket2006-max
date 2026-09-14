@@ -37,4 +37,4 @@ Data Science student at IIT Madras. Building at the Institute of Venture Buildin
 
 ### Contact
 
-[GitHub](https://github.com/humbeaniket2006-max) · [aniket.humbe@hexalog.in](mailto:aniket.humbe@hexalog.in)
+[GitHub](https://github.com/humbeaniket2006-max) · [humbeaniket2006@gmail.com](mailto:humbeaniket2006@gmail.com)
