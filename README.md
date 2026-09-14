@@ -16,7 +16,7 @@ Data Science student at IIT Madras. Building at the Institute of Venture Buildin
 | [**JCAS AI**](https://github.com/humbeaniket2006-max/JCAS_AI) | Elderly-care dashboard prototype built for the METI Japan Internship 2026, aligned to Society 5.0. Includes dementia and fall-risk screening with dual doctor/patient views. | JavaScript, Groq LLaMA 3.3 70B |
 | [**Ocular-Core (Lite)**](https://github.com/humbeaniket2006-max/Ocular_Core_Lite) | Research prototype generating synthetic biological texture data on Intel CPUs (no GPU) using OpenVINO-optimized latent consistency models. | Python, OpenVINO, Jupyter |
 | [**Brand Knowledge Auto-Builder**](https://github.com/humbeaniket2006-max/-brand-knowledge-builder) | Takes a D2C brand URL and generates an AI-ready JSON knowledge pack (catalog, FAQs, policies, tone) for onboarding onto an AI platform. Built for PineOS. | Python, Jupyter |
-| [**Weekly Meta Report**](https://github.com/humbeaniket2006-max/Weekly-Meta_Report) | Automated weekly ad-performance reporting service with a Meta safety/spend audit script, built on the Model Context Protocol. | TypeScript, MCP SDK |
+| **Freshsales MCP** (private) | Read-only MCP server exposing live Freshsales CRM data to Claude, with a two-step propose-and-approve flow on every tool call. | TypeScript, MCP SDK |
 | [**CRM Lead Service**](https://github.com/humbeaniket2006-max/Website--CRM) | Microservice that takes a website lead form and writes submissions directly into Freshsales CRM. | Node.js, Express |
 
 ---
