@@ -1,10 +1,10 @@
 ### Aniket Humbe
 
-Data Science student at IIT Madras, building at the Institute of Venture Building (IVB), Chennai. I work across edge AI / computer vision, LLM-backed tooling, and full-stack web services.
+Data Science student at IIT Madras. Building at the Institute of Venture Building (IVB), Chennai. Focus areas: edge AI, computer vision, LLM tooling, and full-stack web development.
 
 ---
 
-**Currently building:** automation and AI-agent tooling for Hexalog — Meta/Freshsales CRM pipelines, a Freshworks MCP server, and a weekly ad-reporting service in TypeScript. Also iterating on [EHMR AI](https://github.com/humbeaniket2006-max/My_EHMR), a full-stack healthcare platform, and shipping small full-stack tools like a CRM lead-capture microservice.
+**Currently building:** automation and AI-agent tooling for Hexalog, including Meta/Freshsales CRM pipelines, a Freshworks MCP server, and a weekly ad-reporting service in TypeScript. Also working on [EHMR AI](https://github.com/humbeaniket2006-max/My_EHMR), a full-stack healthcare platform, and a CRM lead-capture microservice.
 
 ---
 
@@ -13,11 +13,11 @@ Data Science student at IIT Madras, building at the Institute of Venture Buildin
 | Project | What it does | Stack |
 |---|---|---|
 | [**EHMR AI**](https://github.com/humbeaniket2006-max/My_EHMR) | Full-stack senior-care health platform: dual patient/hospital dashboards, JWT auth, and an LLM-powered risk-insights layer over vitals and lab data. [Live demo](https://my-ehmr.onrender.com). | Node.js, Express, MongoDB, Groq (Llama 3.3), Docker |
-| [**JCAS AI**](https://github.com/humbeaniket2006-max/JCAS_AI) | Elderly-care dashboard prototype built for the METI Japan Internship 2026, aligned to Society 5.0 — dementia and fall-risk screening with dual doctor/patient views. | JavaScript, Groq LLaMA 3.3 70B |
+| [**JCAS AI**](https://github.com/humbeaniket2006-max/JCAS_AI) | Elderly-care dashboard prototype built for the METI Japan Internship 2026, aligned to Society 5.0. Includes dementia and fall-risk screening with dual doctor/patient views. | JavaScript, Groq LLaMA 3.3 70B |
 | [**Ocular-Core (Lite)**](https://github.com/humbeaniket2006-max/Ocular_Core_Lite) | Research prototype generating synthetic biological texture data on Intel CPUs (no GPU) using OpenVINO-optimized latent consistency models. | Python, OpenVINO, Jupyter |
 | [**Brand Knowledge Auto-Builder**](https://github.com/humbeaniket2006-max/-brand-knowledge-builder) | Takes a D2C brand URL and generates an AI-ready JSON knowledge pack (catalog, FAQs, policies, tone) for onboarding onto an AI platform. Built for PineOS. | Python, Jupyter |
 | [**Weekly Meta Report**](https://github.com/humbeaniket2006-max/Weekly-Meta_Report) | Automated weekly ad-performance reporting service with a Meta safety/spend audit script, built on the Model Context Protocol. | TypeScript, MCP SDK |
-| [**Website → CRM**](https://github.com/humbeaniket2006-max/Website--CRM) | Single-purpose microservice that takes a website lead form and writes submissions straight into Freshsales CRM. | Node.js, Express |
+| [**CRM Lead Service**](https://github.com/humbeaniket2006-max/Website--CRM) | Microservice that takes a website lead form and writes submissions directly into Freshsales CRM. | Node.js, Express |
 
 ---
 
