@@ -10,46 +10,16 @@
 
 **Currently building:** automation and AI-agent tooling at Hexalog, plus [EHMR AI](https://github.com/humbeaniket2006-max/My_EHMR).
 
-### Projects
+### Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humbeaniket2006-max/My_EHMR">EHMR AI</a></b> · <a href="https://my-ehmr.onrender.com">Live demo</a><br>
-      Senior-care health platform with separate patient and hospital dashboards, JWT auth, and an LLM layer that generates risk insights from vitals and lab data.<br>
-      <sub>Node.js, Express, MongoDB, Groq (Llama 3.3), Docker</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humbeaniket2006-max/JCAS_AI">JCAS AI</a></b><br>
-      Elderly-care dashboard prototype built for the METI Japan Internship 2026. Screens for dementia and fall risk, with separate doctor and patient views.<br>
-      <sub>JavaScript, Groq LLaMA 3.3 70B</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humbeaniket2006-max/Ocular_Core_Lite">Ocular-Core (Lite)</a></b><br>
-      Research prototype that generates synthetic biological texture data on Intel CPUs, no GPU needed, using OpenVINO-optimized latent consistency models.<br>
-      <sub>Python, OpenVINO, Jupyter</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humbeaniket2006-max/-brand-knowledge-builder">Brand Knowledge Auto-Builder</a></b><br>
-      Takes a D2C brand URL and generates a JSON knowledge pack (catalog, FAQs, policies, tone) for onboarding the brand onto PineOS.<br>
-      <sub>Python, Jupyter</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Freshsales MCP</b> (private)<br>
-      Read-only MCP server that exposes live Freshsales CRM data to Claude, with a two-step propose-and-approve flow on every tool call.<br>
-      <sub>TypeScript, MCP SDK</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/humbeaniket2006-max/Website--CRM">CRM Lead Service</a></b><br>
-      Microservice that writes website lead form submissions directly into Freshsales CRM.<br>
-      <sub>Node.js, Express</sub>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| [**EHMR AI**](https://github.com/humbeaniket2006-max/My_EHMR) | Senior-care health platform with separate patient and hospital dashboards, JWT auth, and an LLM layer that generates risk insights from vitals and lab data. [Live demo](https://my-ehmr.onrender.com). | Node.js, Express, MongoDB, Groq (Llama 3.3), Docker |
+| [**JCAS AI**](https://github.com/humbeaniket2006-max/JCAS_AI) | Elderly-care dashboard prototype built for the METI Japan Internship 2026. Screens for dementia and fall risk, with separate doctor and patient views. | JavaScript, Groq LLaMA 3.3 70B |
+| [**Ocular-Core (Lite)**](https://github.com/humbeaniket2006-max/Ocular_Core_Lite) | Research prototype that generates synthetic biological texture data on Intel CPUs, no GPU needed, using OpenVINO-optimized latent consistency models. | Python, OpenVINO, Jupyter |
+| [**Brand Knowledge Auto-Builder**](https://github.com/humbeaniket2006-max/-brand-knowledge-builder) | Takes a D2C brand URL and generates a JSON knowledge pack (catalog, FAQs, policies, tone) for onboarding the brand onto PineOS. | Python, Jupyter |
+| **Freshsales MCP** (private) | Read-only MCP server that exposes live Freshsales CRM data to Claude, with a two-step propose-and-approve flow on every tool call. | TypeScript, MCP SDK |
+| [**CRM Lead Service**](https://github.com/humbeaniket2006-max/Website--CRM) | Microservice that writes website lead form submissions directly into Freshsales CRM. | Node.js, Express |
 
 ### Stack
 
@@ -72,3 +42,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-humbeaniket2006--max-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/humbeaniket2006-max)
 [![Email](https://img.shields.io/badge/Email-humbeaniket2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:humbeaniket2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aniket--humbe-0A66C2?style=flat-square)](https://www.linkedin.com/in/aniket-humbe)
