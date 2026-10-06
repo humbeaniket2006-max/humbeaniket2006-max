@@ -4,7 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img alt="Terminal style profile card for Aniket Humbe" src="./assets/dark.svg" width="100%">
+    <img alt="Profile card for Aniket Humbe: Data Science student at IIT Madras working on edge AI, computer vision, LLM tooling and automation at Hexalog" src="./assets/dark.svg" width="100%">
   </picture>
 </p>
 
