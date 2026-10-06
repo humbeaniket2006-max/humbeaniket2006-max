@@ -15,7 +15,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**EHMR AI**](https://github.com/humbeaniket2006-max/My_EHMR) | Senior-care health platform with separate patient and hospital dashboards, JWT auth, and an LLM layer that generates risk insights from vitals and lab data. [Live demo](https://my-ehmr.onrender.com). | Node.js, Express, MongoDB, Groq (Llama 3.3), Docker |
-| [**JCAS AI**](https://github.com/humbeaniket2006-max/JCAS_AI) | Elderly-care dashboard prototype built for the METI Japan Internship 2026. Screens for dementia and fall risk, with separate doctor and patient views. | JavaScript, Groq LLaMA 3.3 70B |
+| **Ads Library MCP** (private) | Internal MCP server for ads library data. Kept private as an internal tool. | MCP |
 | [**Ocular-Core (Lite)**](https://github.com/humbeaniket2006-max/Ocular_Core_Lite) | Research prototype that generates synthetic biological texture data on Intel CPUs, no GPU needed, using OpenVINO-optimized latent consistency models. | Python, OpenVINO, Jupyter |
 | [**Brand Knowledge Auto-Builder**](https://github.com/humbeaniket2006-max/-brand-knowledge-builder) | Takes a D2C brand URL and generates a JSON knowledge pack (catalog, FAQs, policies, tone) for onboarding the brand onto PineOS. | Python, Jupyter |
 | **Freshsales MCP** (private) | Read-only MCP server that exposes live Freshsales CRM data to Claude, with a two-step propose-and-approve flow on every tool call. | TypeScript, MCP SDK |
