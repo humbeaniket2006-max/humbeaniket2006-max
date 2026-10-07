@@ -213,16 +213,8 @@ def contributions(theme, t0=0.0):
         cells.append(f'<rect class="cell l{lv}" x="{X0 + w * P}" y="{Y0 + r * P}" width="{S}" height="{S}" rx="2.5" fill="{c["heat"][lv]}" style="animation:cell .55s ease-out {delay:.2f}s forwards"/>')
     b.append('\n'.join(cells))
     tc = ts + 0.2
-    # caption: count-up number then fixed text
-    vals = ease(TOTAL, 24); steps = len(vals); dts = 2.0 / steps
-    cap = []
-    for i, v in enumerate(vals):
-        if i < steps - 1:
-            cap.append(f'<text class="m v st" x="70" y="244" style="font-weight:700;animation:st {dts:.3f}s steps(1) {tc + i * dts:.3f}s forwards">{v}</text>')
-        else:
-            cap.append(f'<text class="m v fin" x="70" y="244" style="font-weight:700;animation:fade .05s {tc + i * dts:.3f}s forwards">{v}</text>')
-    b.append('\n'.join(cap))
-    b.append(faded(f'<text class="m mu" x="{70 + (len(vals[-1]) + 1) * 7.3:.0f}" y="244">contributions in the last year</text>', tc + 0.3, 0.5))
+    # caption: the number and its label in one text element
+    b.append(faded(f'<text class="m v" x="70" y="244"><tspan style="font-weight:700">{TOTAL:,}</tspan><tspan class="mu" dx="6">contributions in the last year</tspan></text>', tc, 0.5))
     lg = ''.join(f'<rect x="{770 + i * 15}" y="233" width="{S}" height="{S}" rx="2.5" fill="{c["heat"][i]}"/>' for i in range(5))
     b.append(faded(f'<text class="m mu" x="764" y="243" text-anchor="end" style="font-size:10px">Less</text>{lg}<text class="m mu" x="850" y="243" style="font-size:10px">More</text>', ts + 1.2, 0.5))
     desc = f'Contribution heatmap for the last year. {TOTAL} contributions between {fd(days[0]["d"])} and {fd(days[-1]["d"])}.'
@@ -231,7 +223,8 @@ def contributions(theme, t0=0.0):
 # ---------------------------------------------------------------- stats
 def stats(theme, t0=0.0):
     c = T[theme]; b = []; W, H = 900, 430
-    ascii_rows = open(ROOT / 'portrait.txt').read().split('\n')
+    pf = ROOT / ('portrait-light.txt' if theme == 'light' else 'portrait.txt')
+    ascii_rows = (pf if pf.exists() else ROOT / 'portrait.txt').read_text().split('\n')
     b.append(f'<rect x="8" y="8" width="884" height="{H-16}" rx="16" fill="{c["bg"]}" stroke="{c["line"]}" stroke-width="1.5"/>')
     g, d = typed(f'<text class="m pr" x="450" y="42" text-anchor="middle">aniket@github ~ $ <tspan class="v" style="font-weight:400">whoami</tspan></text>', 25, t0 + 0.1, 0.04); b.append(g)
     ts = t0 + 0.1 + d + 0.1
@@ -241,10 +234,10 @@ def stats(theme, t0=0.0):
     for i, r in enumerate(ascii_rows):
         pts = [(k, ch) for k, ch in enumerate(r) if ch != ' ']
         if not pts: continue
-        y = 90 + i * 7.0
-        xs = ' '.join(f'{46 + k * 4.0:.1f}' for k, _ in pts)
+        y = 88 + i * 4.5
+        xs = ' '.join(f'{44 + k * 2.55:.2f}' for k, _ in pts)
         txt = escape(''.join(ch for _, ch in pts))
-        rows.append(f'<text class="m f" x="{xs}" y="{y:.1f}" style="font-size:6.6px;fill:{c["ascii"]};animation:fade .2s ease-out {ts + 0.3 + i * 0.05:.2f}s forwards">{txt}</text>')
+        rows.append(f'<text class="m f" x="{xs}" y="{y:.1f}" style="font-size:4.25px;font-weight:700;fill:{c["ascii"]};animation:fade .2s ease-out {ts + 0.3 + i * 0.03:.2f}s forwards">{txt}</text>')
     b.append('\n'.join(rows))
     # tiles
     def span(a, z): return f'{fd(a)} to {fd(z)}' if a else ''
@@ -264,9 +257,8 @@ def stats(theme, t0=0.0):
                        f'<text class="m mu" x="{x + 12}" y="{y + 18}" style="font-size:10px">{lab}</text>'
                        f'<text class="m mu" x="{x + 12}" y="{y + 63}" style="font-size:10px">{escape(sub)}</text>', td, 0.4))
         fill = c['big'] if green else c['val']
-        vals = ease(val, 18, dec)
         final = f'{val:.{dec}f}' if dec else f'{val:,}'
-        b.append(countup(vals, td + 0.2, 0.9, x + 12, y + 46, 'big', final, unit, 'mu', attrs=f' fill="{fill}"'))
+        b.append(faded(f'<text class="m big" x="{x + 12}" y="{y + 46}" fill="{fill}">{final}<tspan class="mu" dx="6" style="font-weight:400">{escape(unit)}</tspan></text>', td + 0.15, 0.5))
     # bars
     BY = TY + 3 * (TH + GY)
     b.append(faded(f'<rect x="{TX}" y="{BY}" width="468" height="{62 + 330 - BY}" rx="8" fill="{c["tile"]}" stroke="{c["tb"]}"/>'

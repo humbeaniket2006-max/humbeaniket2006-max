@@ -398,28 +398,6 @@
 <rect class="cell l1" x="850" y="127" width="12" height="12" rx="2.5" fill="#9be9a8" style="animation:cell .55s ease-out 7.77s forwards"/>
 <rect class="cell l4" x="850" y="142" width="12" height="12" rx="2.5" fill="#216e39" style="animation:cell .55s ease-out 7.78s forwards"/>
 <rect class="cell l1" x="850" y="157" width="12" height="12" rx="2.5" fill="#9be9a8" style="animation:cell .55s ease-out 7.79s forwards"/>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.190s forwards">40</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.281s forwards">77</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.372s forwards">111</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.463s forwards">142</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.554s forwards">170</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.645s forwards">195</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.735s forwards">217</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.826s forwards">237</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.917s forwards">255</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.008s forwards">270</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.099s forwards">283</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.190s forwards">295</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.281s forwards">305</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.372s forwards">313</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.463s forwards">319</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.554s forwards">325</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.645s forwards">329</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.735s forwards">332</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.826s forwards">334</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.917s forwards">335</text>
-<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 8.008s forwards">336</text>
-<text class="m v fin" x="70" y="244" style="font-weight:700;animation:fade .05s 8.099s forwards">337</text>
-<g class="f" style="animation:fade 0.5s ease-out 6.49s forwards"><text class="m mu" x="99" y="244">contributions in the last year</text></g>
+<g class="f" style="animation:fade 0.5s ease-out 6.19s forwards"><text class="m v" x="70" y="244"><tspan style="font-weight:700">337</tspan><tspan class="mu" dx="6">contributions in the last year</tspan></text></g>
 <g class="f" style="animation:fade 0.5s ease-out 7.19s forwards"><text class="m mu" x="764" y="243" text-anchor="end" style="font-size:10px">Less</text><rect x="770" y="233" width="12" height="12" rx="2.5" fill="#ebedf0"/><rect x="785" y="233" width="12" height="12" rx="2.5" fill="#9be9a8"/><rect x="800" y="233" width="12" height="12" rx="2.5" fill="#40c463"/><rect x="815" y="233" width="12" height="12" rx="2.5" fill="#30a14e"/><rect x="830" y="233" width="12" height="12" rx="2.5" fill="#216e39"/><text class="m mu" x="850" y="243" style="font-size:10px">More</text></g>
 </svg>
