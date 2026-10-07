@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 34" width="900" height="34" role="img" aria-labelledby="t d">
+<title id="t">Stack</title>
+<desc id="d">Stack</desc>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.k{fill:#0a7f76;font-size:12px;font-weight:700}
+.v{fill:#1f2328;font-size:12px}
+.mu{fill:#57606a;font-size:11px}
+.pr{fill:#1a7f37;font-size:12px;font-weight:700}
+.p{font-size:11px}
+.big{font-size:26px;font-weight:700}
+.t{clip-path:inset(0 100% 0 0)}
+.f,.st,.bar,.cell,.fin{opacity:0}
+.cur{animation:blink 1s steps(1) infinite}
+.l0{--c:#ebedf0;--f:#ebedf0}.l1{--c:#9be9a8;--f:#0f5323}.l2{--c:#40c463;--f:#0f5323}.l3{--c:#30a14e;--f:#0f5323}.l4{--c:#216e39;--f:#0f5323}
+.bar{transform-box:fill-box;transform-origin:50% 100%;transform:scaleY(0)}
+@keyframes typ{to{clip-path:inset(0 0 0 0)}}
+@keyframes fade{to{opacity:1}}
+@keyframes rev{to{clip-path:inset(0 0 0 0)}}
+@keyframes st{from{opacity:1}to{opacity:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes cell{from{opacity:0;fill:var(--f)}to{opacity:1;fill:var(--c)}}
+@keyframes grow{to{opacity:1;transform:scaleY(1)}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;clip-path:none!important;transform:none!important}.st{display:none!important}.cur{opacity:1!important}}
+</style>
+<defs></defs>
+<g class="t" style="animation:typ 0.84s steps(24) 9.60s forwards"><text class="m pr" x="8" y="22" style="font-size:13px">aniket@dev:~$ <tspan class="v" style="font-weight:700">./stack.sh</tspan></text></g><g class="f" style="animation:fade 0.4s ease-out 10.54s forwards"><text class="m mu" x="219" y="22" style="font-size:12px"># tools I use</text></g>
+</svg>

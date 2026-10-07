@@ -1,0 +1,425 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 262" width="900" height="262" role="img" aria-labelledby="t d">
+<title id="t">GitHub contributions, last year</title>
+<desc id="d">Contribution heatmap for the last year. 336 contributions between Oct 5 and Oct 7.</desc>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.k{fill:#2ee6d6;font-size:12px;font-weight:700}
+.v{fill:#e6edf3;font-size:12px}
+.mu{fill:#7d8da1;font-size:11px}
+.pr{fill:#7ee787;font-size:12px;font-weight:700}
+.p{font-size:11px}
+.big{font-size:26px;font-weight:700}
+.t{clip-path:inset(0 100% 0 0)}
+.f,.st,.bar,.cell,.fin{opacity:0}
+.cur{animation:blink 1s steps(1) infinite}
+.l0{--c:#161b22;--f:#161b22}.l1{--c:#0e4429;--f:#9dffb0}.l2{--c:#006d32;--f:#9dffb0}.l3{--c:#26a641;--f:#9dffb0}.l4{--c:#39d353;--f:#9dffb0}
+.bar{transform-box:fill-box;transform-origin:50% 100%;transform:scaleY(0)}
+@keyframes typ{to{clip-path:inset(0 0 0 0)}}
+@keyframes fade{to{opacity:1}}
+@keyframes rev{to{clip-path:inset(0 0 0 0)}}
+@keyframes st{from{opacity:1}to{opacity:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes cell{from{opacity:0;fill:var(--f)}to{opacity:1;fill:var(--c)}}
+@keyframes grow{to{opacity:1;transform:scaleY(1)}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;clip-path:none!important;transform:none!important}.st{display:none!important}.cur{opacity:1!important}}
+</style>
+<defs></defs>
+<rect x="8" y="8" width="884" height="246" rx="16" fill="#0d1117" stroke="#1d6f6a" stroke-width="1.5"/>
+<g class="f" style="animation:fade 0.3s ease-out 4.25s forwards"><text class="m mu" x="36" y="36">humbeaniket2006-max / README.md</text></g>
+<g class="t" style="animation:typ 1.44s steps(36) 4.40s forwards"><text class="m pr" x="450" y="72" text-anchor="middle">aniket@github ~ $ <tspan class="v" style="font-weight:400">./contributions.sh</tspan></text></g>
+<g class="f" style="animation:fade 0.4s ease-out 5.99s forwards"><text class="m mu" x="70" y="104" style="font-size:10px">Oct</text><text class="m mu" x="130" y="104" style="font-size:10px">Nov</text><text class="m mu" x="205" y="104" style="font-size:10px">Dec</text><text class="m mu" x="265" y="104" style="font-size:10px">Jan</text><text class="m mu" x="325" y="104" style="font-size:10px">Feb</text><text class="m mu" x="385" y="104" style="font-size:10px">Mar</text><text class="m mu" x="460" y="104" style="font-size:10px">Apr</text><text class="m mu" x="520" y="104" style="font-size:10px">May</text><text class="m mu" x="595" y="104" style="font-size:10px">Jun</text><text class="m mu" x="655" y="104" style="font-size:10px">Jul</text><text class="m mu" x="715" y="104" style="font-size:10px">Aug</text><text class="m mu" x="790" y="104" style="font-size:10px">Sep</text><text class="m mu" x="850" y="104" style="font-size:10px">Oct</text></g>
+<g class="f" style="animation:fade 0.4s ease-out 5.99s forwards"><text class="m mu" x="36" y="137" style="font-size:10px">Mon</text><text class="m mu" x="36" y="167" style="font-size:10px">Wed</text><text class="m mu" x="36" y="197" style="font-size:10px">Fri</text></g>
+<rect class="cell l0" x="70" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 5.99s forwards"/>
+<rect class="cell l0" x="70" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.00s forwards"/>
+<rect class="cell l0" x="70" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.01s forwards"/>
+<rect class="cell l0" x="70" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.02s forwards"/>
+<rect class="cell l0" x="70" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.03s forwards"/>
+<rect class="cell l0" x="70" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.04s forwards"/>
+<rect class="cell l0" x="70" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.06s forwards"/>
+<rect class="cell l0" x="85" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.02s forwards"/>
+<rect class="cell l0" x="85" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.04s forwards"/>
+<rect class="cell l0" x="85" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.05s forwards"/>
+<rect class="cell l0" x="85" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.06s forwards"/>
+<rect class="cell l0" x="85" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.07s forwards"/>
+<rect class="cell l0" x="85" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.08s forwards"/>
+<rect class="cell l0" x="85" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.09s forwards"/>
+<rect class="cell l0" x="100" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.06s forwards"/>
+<rect class="cell l0" x="100" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.07s forwards"/>
+<rect class="cell l0" x="100" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.08s forwards"/>
+<rect class="cell l0" x="100" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.09s forwards"/>
+<rect class="cell l0" x="100" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.10s forwards"/>
+<rect class="cell l0" x="100" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.11s forwards"/>
+<rect class="cell l0" x="100" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.12s forwards"/>
+<rect class="cell l0" x="115" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.09s forwards"/>
+<rect class="cell l0" x="115" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.10s forwards"/>
+<rect class="cell l0" x="115" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.11s forwards"/>
+<rect class="cell l0" x="115" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.13s forwards"/>
+<rect class="cell l0" x="115" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.14s forwards"/>
+<rect class="cell l0" x="115" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.15s forwards"/>
+<rect class="cell l0" x="115" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.16s forwards"/>
+<rect class="cell l0" x="130" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.13s forwards"/>
+<rect class="cell l0" x="130" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.14s forwards"/>
+<rect class="cell l0" x="130" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.15s forwards"/>
+<rect class="cell l0" x="130" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.16s forwards"/>
+<rect class="cell l0" x="130" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.17s forwards"/>
+<rect class="cell l0" x="130" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.18s forwards"/>
+<rect class="cell l0" x="130" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.19s forwards"/>
+<rect class="cell l0" x="145" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.16s forwards"/>
+<rect class="cell l0" x="145" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.17s forwards"/>
+<rect class="cell l0" x="145" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.18s forwards"/>
+<rect class="cell l0" x="145" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.19s forwards"/>
+<rect class="cell l0" x="145" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.20s forwards"/>
+<rect class="cell l0" x="145" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.21s forwards"/>
+<rect class="cell l0" x="145" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.23s forwards"/>
+<rect class="cell l0" x="160" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.19s forwards"/>
+<rect class="cell l0" x="160" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.21s forwards"/>
+<rect class="cell l0" x="160" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.22s forwards"/>
+<rect class="cell l0" x="160" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.23s forwards"/>
+<rect class="cell l0" x="160" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.24s forwards"/>
+<rect class="cell l0" x="160" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.25s forwards"/>
+<rect class="cell l0" x="160" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.26s forwards"/>
+<rect class="cell l0" x="175" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.23s forwards"/>
+<rect class="cell l0" x="175" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.24s forwards"/>
+<rect class="cell l0" x="175" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.25s forwards"/>
+<rect class="cell l0" x="175" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.26s forwards"/>
+<rect class="cell l0" x="175" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.27s forwards"/>
+<rect class="cell l0" x="175" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.28s forwards"/>
+<rect class="cell l0" x="175" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.29s forwards"/>
+<rect class="cell l0" x="190" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.26s forwards"/>
+<rect class="cell l0" x="190" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.27s forwards"/>
+<rect class="cell l0" x="190" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.28s forwards"/>
+<rect class="cell l0" x="190" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.30s forwards"/>
+<rect class="cell l0" x="190" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.31s forwards"/>
+<rect class="cell l0" x="190" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.32s forwards"/>
+<rect class="cell l0" x="190" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.33s forwards"/>
+<rect class="cell l0" x="205" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.30s forwards"/>
+<rect class="cell l0" x="205" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.31s forwards"/>
+<rect class="cell l1" x="205" y="142" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.32s forwards"/>
+<rect class="cell l0" x="205" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.33s forwards"/>
+<rect class="cell l3" x="205" y="172" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 6.34s forwards"/>
+<rect class="cell l2" x="205" y="187" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.35s forwards"/>
+<rect class="cell l0" x="205" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.36s forwards"/>
+<rect class="cell l0" x="220" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.33s forwards"/>
+<rect class="cell l0" x="220" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.34s forwards"/>
+<rect class="cell l0" x="220" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.35s forwards"/>
+<rect class="cell l0" x="220" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.36s forwards"/>
+<rect class="cell l0" x="220" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.37s forwards"/>
+<rect class="cell l0" x="220" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.38s forwards"/>
+<rect class="cell l0" x="220" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.40s forwards"/>
+<rect class="cell l0" x="235" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.36s forwards"/>
+<rect class="cell l0" x="235" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.38s forwards"/>
+<rect class="cell l0" x="235" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.39s forwards"/>
+<rect class="cell l0" x="235" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.40s forwards"/>
+<rect class="cell l0" x="235" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.41s forwards"/>
+<rect class="cell l0" x="235" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.42s forwards"/>
+<rect class="cell l2" x="235" y="202" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.43s forwards"/>
+<rect class="cell l0" x="250" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.40s forwards"/>
+<rect class="cell l0" x="250" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.41s forwards"/>
+<rect class="cell l0" x="250" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.42s forwards"/>
+<rect class="cell l3" x="250" y="157" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 6.43s forwards"/>
+<rect class="cell l0" x="250" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.44s forwards"/>
+<rect class="cell l0" x="250" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.45s forwards"/>
+<rect class="cell l0" x="250" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.46s forwards"/>
+<rect class="cell l0" x="265" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.43s forwards"/>
+<rect class="cell l0" x="265" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.44s forwards"/>
+<rect class="cell l0" x="265" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.45s forwards"/>
+<rect class="cell l0" x="265" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.47s forwards"/>
+<rect class="cell l0" x="265" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.48s forwards"/>
+<rect class="cell l0" x="265" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.49s forwards"/>
+<rect class="cell l0" x="265" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.50s forwards"/>
+<rect class="cell l0" x="280" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.47s forwards"/>
+<rect class="cell l0" x="280" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.48s forwards"/>
+<rect class="cell l0" x="280" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.49s forwards"/>
+<rect class="cell l0" x="280" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.50s forwards"/>
+<rect class="cell l0" x="280" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.51s forwards"/>
+<rect class="cell l0" x="280" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.52s forwards"/>
+<rect class="cell l0" x="280" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.53s forwards"/>
+<rect class="cell l0" x="295" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.50s forwards"/>
+<rect class="cell l0" x="295" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.51s forwards"/>
+<rect class="cell l0" x="295" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.52s forwards"/>
+<rect class="cell l0" x="295" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.53s forwards"/>
+<rect class="cell l0" x="295" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.54s forwards"/>
+<rect class="cell l0" x="295" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.55s forwards"/>
+<rect class="cell l0" x="295" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.57s forwards"/>
+<rect class="cell l0" x="310" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.53s forwards"/>
+<rect class="cell l0" x="310" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.55s forwards"/>
+<rect class="cell l0" x="310" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.56s forwards"/>
+<rect class="cell l0" x="310" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.57s forwards"/>
+<rect class="cell l0" x="310" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.58s forwards"/>
+<rect class="cell l1" x="310" y="187" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.59s forwards"/>
+<rect class="cell l1" x="310" y="202" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.60s forwards"/>
+<rect class="cell l0" x="325" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.57s forwards"/>
+<rect class="cell l0" x="325" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.58s forwards"/>
+<rect class="cell l0" x="325" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.59s forwards"/>
+<rect class="cell l0" x="325" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.60s forwards"/>
+<rect class="cell l0" x="325" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.61s forwards"/>
+<rect class="cell l0" x="325" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.62s forwards"/>
+<rect class="cell l0" x="325" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.63s forwards"/>
+<rect class="cell l0" x="340" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.60s forwards"/>
+<rect class="cell l2" x="340" y="127" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.61s forwards"/>
+<rect class="cell l0" x="340" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.62s forwards"/>
+<rect class="cell l0" x="340" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.64s forwards"/>
+<rect class="cell l0" x="340" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.65s forwards"/>
+<rect class="cell l0" x="340" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.66s forwards"/>
+<rect class="cell l0" x="340" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.67s forwards"/>
+<rect class="cell l0" x="355" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.64s forwards"/>
+<rect class="cell l0" x="355" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.65s forwards"/>
+<rect class="cell l0" x="355" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.66s forwards"/>
+<rect class="cell l0" x="355" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.67s forwards"/>
+<rect class="cell l0" x="355" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.68s forwards"/>
+<rect class="cell l0" x="355" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.69s forwards"/>
+<rect class="cell l0" x="355" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.70s forwards"/>
+<rect class="cell l0" x="370" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.67s forwards"/>
+<rect class="cell l0" x="370" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.68s forwards"/>
+<rect class="cell l0" x="370" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.69s forwards"/>
+<rect class="cell l0" x="370" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.70s forwards"/>
+<rect class="cell l2" x="370" y="172" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.71s forwards"/>
+<rect class="cell l0" x="370" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.72s forwards"/>
+<rect class="cell l0" x="370" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.74s forwards"/>
+<rect class="cell l0" x="385" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.70s forwards"/>
+<rect class="cell l0" x="385" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.72s forwards"/>
+<rect class="cell l0" x="385" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.73s forwards"/>
+<rect class="cell l0" x="385" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.74s forwards"/>
+<rect class="cell l0" x="385" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.75s forwards"/>
+<rect class="cell l0" x="385" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.76s forwards"/>
+<rect class="cell l0" x="385" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.77s forwards"/>
+<rect class="cell l0" x="400" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.74s forwards"/>
+<rect class="cell l0" x="400" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.75s forwards"/>
+<rect class="cell l0" x="400" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.76s forwards"/>
+<rect class="cell l0" x="400" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.77s forwards"/>
+<rect class="cell l0" x="400" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.78s forwards"/>
+<rect class="cell l0" x="400" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.79s forwards"/>
+<rect class="cell l0" x="400" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.80s forwards"/>
+<rect class="cell l0" x="415" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.77s forwards"/>
+<rect class="cell l0" x="415" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.78s forwards"/>
+<rect class="cell l0" x="415" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.79s forwards"/>
+<rect class="cell l3" x="415" y="157" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 6.81s forwards"/>
+<rect class="cell l0" x="415" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.82s forwards"/>
+<rect class="cell l0" x="415" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.83s forwards"/>
+<rect class="cell l0" x="415" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.84s forwards"/>
+<rect class="cell l0" x="430" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.81s forwards"/>
+<rect class="cell l1" x="430" y="127" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.82s forwards"/>
+<rect class="cell l0" x="430" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.83s forwards"/>
+<rect class="cell l4" x="430" y="157" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 6.84s forwards"/>
+<rect class="cell l2" x="430" y="172" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.85s forwards"/>
+<rect class="cell l1" x="430" y="187" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.86s forwards"/>
+<rect class="cell l0" x="430" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.87s forwards"/>
+<rect class="cell l0" x="445" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.84s forwards"/>
+<rect class="cell l0" x="445" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.85s forwards"/>
+<rect class="cell l2" x="445" y="142" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.86s forwards"/>
+<rect class="cell l3" x="445" y="157" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 6.87s forwards"/>
+<rect class="cell l0" x="445" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.88s forwards"/>
+<rect class="cell l2" x="445" y="187" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.89s forwards"/>
+<rect class="cell l3" x="445" y="202" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 6.91s forwards"/>
+<rect class="cell l0" x="460" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.87s forwards"/>
+<rect class="cell l2" x="460" y="127" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.89s forwards"/>
+<rect class="cell l1" x="460" y="142" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.90s forwards"/>
+<rect class="cell l0" x="460" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.91s forwards"/>
+<rect class="cell l0" x="460" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.92s forwards"/>
+<rect class="cell l0" x="460" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.93s forwards"/>
+<rect class="cell l3" x="460" y="202" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 6.94s forwards"/>
+<rect class="cell l0" x="475" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.91s forwards"/>
+<rect class="cell l2" x="475" y="127" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.92s forwards"/>
+<rect class="cell l3" x="475" y="142" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 6.93s forwards"/>
+<rect class="cell l1" x="475" y="157" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.94s forwards"/>
+<rect class="cell l4" x="475" y="172" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 6.95s forwards"/>
+<rect class="cell l1" x="475" y="187" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.96s forwards"/>
+<rect class="cell l0" x="475" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.97s forwards"/>
+<rect class="cell l0" x="490" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.94s forwards"/>
+<rect class="cell l1" x="490" y="127" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.95s forwards"/>
+<rect class="cell l0" x="490" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.96s forwards"/>
+<rect class="cell l3" x="490" y="157" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 6.98s forwards"/>
+<rect class="cell l0" x="490" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 6.99s forwards"/>
+<rect class="cell l1" x="490" y="187" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.00s forwards"/>
+<rect class="cell l3" x="490" y="202" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.01s forwards"/>
+<rect class="cell l2" x="505" y="112" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 6.98s forwards"/>
+<rect class="cell l1" x="505" y="127" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 6.99s forwards"/>
+<rect class="cell l4" x="505" y="142" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.00s forwards"/>
+<rect class="cell l1" x="505" y="157" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.01s forwards"/>
+<rect class="cell l0" x="505" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.02s forwards"/>
+<rect class="cell l2" x="505" y="187" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 7.03s forwards"/>
+<rect class="cell l2" x="505" y="202" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 7.04s forwards"/>
+<rect class="cell l0" x="520" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.01s forwards"/>
+<rect class="cell l0" x="520" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.02s forwards"/>
+<rect class="cell l2" x="520" y="142" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 7.03s forwards"/>
+<rect class="cell l4" x="520" y="157" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.04s forwards"/>
+<rect class="cell l1" x="520" y="172" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.05s forwards"/>
+<rect class="cell l1" x="520" y="187" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.06s forwards"/>
+<rect class="cell l0" x="520" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.08s forwards"/>
+<rect class="cell l0" x="535" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.04s forwards"/>
+<rect class="cell l0" x="535" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.06s forwards"/>
+<rect class="cell l3" x="535" y="142" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.07s forwards"/>
+<rect class="cell l0" x="535" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.08s forwards"/>
+<rect class="cell l0" x="535" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.09s forwards"/>
+<rect class="cell l1" x="535" y="187" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.10s forwards"/>
+<rect class="cell l0" x="535" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.11s forwards"/>
+<rect class="cell l0" x="550" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.08s forwards"/>
+<rect class="cell l0" x="550" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.09s forwards"/>
+<rect class="cell l0" x="550" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.10s forwards"/>
+<rect class="cell l0" x="550" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.11s forwards"/>
+<rect class="cell l0" x="550" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.12s forwards"/>
+<rect class="cell l0" x="550" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.13s forwards"/>
+<rect class="cell l0" x="550" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.14s forwards"/>
+<rect class="cell l0" x="565" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.11s forwards"/>
+<rect class="cell l0" x="565" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.12s forwards"/>
+<rect class="cell l0" x="565" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.13s forwards"/>
+<rect class="cell l0" x="565" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.15s forwards"/>
+<rect class="cell l0" x="565" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.16s forwards"/>
+<rect class="cell l0" x="565" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.17s forwards"/>
+<rect class="cell l0" x="565" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.18s forwards"/>
+<rect class="cell l3" x="580" y="112" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.15s forwards"/>
+<rect class="cell l0" x="580" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.16s forwards"/>
+<rect class="cell l0" x="580" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.17s forwards"/>
+<rect class="cell l0" x="580" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.18s forwards"/>
+<rect class="cell l3" x="580" y="172" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.19s forwards"/>
+<rect class="cell l0" x="580" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.20s forwards"/>
+<rect class="cell l2" x="580" y="202" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 7.21s forwards"/>
+<rect class="cell l3" x="595" y="112" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.18s forwards"/>
+<rect class="cell l0" x="595" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.19s forwards"/>
+<rect class="cell l0" x="595" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.20s forwards"/>
+<rect class="cell l0" x="595" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.21s forwards"/>
+<rect class="cell l0" x="595" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.22s forwards"/>
+<rect class="cell l0" x="595" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.24s forwards"/>
+<rect class="cell l0" x="595" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.25s forwards"/>
+<rect class="cell l0" x="610" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.21s forwards"/>
+<rect class="cell l0" x="610" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.23s forwards"/>
+<rect class="cell l0" x="610" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.24s forwards"/>
+<rect class="cell l0" x="610" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.25s forwards"/>
+<rect class="cell l0" x="610" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.26s forwards"/>
+<rect class="cell l0" x="610" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.27s forwards"/>
+<rect class="cell l0" x="610" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.28s forwards"/>
+<rect class="cell l0" x="625" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.25s forwards"/>
+<rect class="cell l0" x="625" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.26s forwards"/>
+<rect class="cell l0" x="625" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.27s forwards"/>
+<rect class="cell l0" x="625" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.28s forwards"/>
+<rect class="cell l0" x="625" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.29s forwards"/>
+<rect class="cell l0" x="625" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.30s forwards"/>
+<rect class="cell l0" x="625" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.31s forwards"/>
+<rect class="cell l0" x="640" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.28s forwards"/>
+<rect class="cell l0" x="640" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.29s forwards"/>
+<rect class="cell l3" x="640" y="142" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.30s forwards"/>
+<rect class="cell l0" x="640" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.32s forwards"/>
+<rect class="cell l0" x="640" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.33s forwards"/>
+<rect class="cell l3" x="640" y="187" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.34s forwards"/>
+<rect class="cell l1" x="640" y="202" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.35s forwards"/>
+<rect class="cell l0" x="655" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.32s forwards"/>
+<rect class="cell l0" x="655" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.33s forwards"/>
+<rect class="cell l0" x="655" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.34s forwards"/>
+<rect class="cell l1" x="655" y="157" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.35s forwards"/>
+<rect class="cell l1" x="655" y="172" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.36s forwards"/>
+<rect class="cell l0" x="655" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.37s forwards"/>
+<rect class="cell l4" x="655" y="202" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.38s forwards"/>
+<rect class="cell l0" x="670" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.35s forwards"/>
+<rect class="cell l0" x="670" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.36s forwards"/>
+<rect class="cell l0" x="670" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.37s forwards"/>
+<rect class="cell l0" x="670" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.38s forwards"/>
+<rect class="cell l0" x="670" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.39s forwards"/>
+<rect class="cell l0" x="670" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.41s forwards"/>
+<rect class="cell l0" x="670" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.42s forwards"/>
+<rect class="cell l0" x="685" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.38s forwards"/>
+<rect class="cell l0" x="685" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.40s forwards"/>
+<rect class="cell l0" x="685" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.41s forwards"/>
+<rect class="cell l0" x="685" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.42s forwards"/>
+<rect class="cell l0" x="685" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.43s forwards"/>
+<rect class="cell l0" x="685" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.44s forwards"/>
+<rect class="cell l0" x="685" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.45s forwards"/>
+<rect class="cell l0" x="700" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.42s forwards"/>
+<rect class="cell l0" x="700" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.43s forwards"/>
+<rect class="cell l0" x="700" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.44s forwards"/>
+<rect class="cell l0" x="700" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.45s forwards"/>
+<rect class="cell l0" x="700" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.46s forwards"/>
+<rect class="cell l0" x="700" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.47s forwards"/>
+<rect class="cell l0" x="700" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.48s forwards"/>
+<rect class="cell l0" x="715" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.45s forwards"/>
+<rect class="cell l0" x="715" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.46s forwards"/>
+<rect class="cell l1" x="715" y="142" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.47s forwards"/>
+<rect class="cell l1" x="715" y="157" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.49s forwards"/>
+<rect class="cell l2" x="715" y="172" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 7.50s forwards"/>
+<rect class="cell l3" x="715" y="187" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.51s forwards"/>
+<rect class="cell l0" x="715" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.52s forwards"/>
+<rect class="cell l0" x="730" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.49s forwards"/>
+<rect class="cell l4" x="730" y="127" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.50s forwards"/>
+<rect class="cell l4" x="730" y="142" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.51s forwards"/>
+<rect class="cell l4" x="730" y="157" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.52s forwards"/>
+<rect class="cell l0" x="730" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.53s forwards"/>
+<rect class="cell l2" x="730" y="187" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 7.54s forwards"/>
+<rect class="cell l0" x="730" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.55s forwards"/>
+<rect class="cell l0" x="745" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.52s forwards"/>
+<rect class="cell l0" x="745" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.53s forwards"/>
+<rect class="cell l1" x="745" y="142" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.54s forwards"/>
+<rect class="cell l1" x="745" y="157" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.55s forwards"/>
+<rect class="cell l1" x="745" y="172" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.56s forwards"/>
+<rect class="cell l0" x="745" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.58s forwards"/>
+<rect class="cell l0" x="745" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.59s forwards"/>
+<rect class="cell l0" x="760" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.55s forwards"/>
+<rect class="cell l0" x="760" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.57s forwards"/>
+<rect class="cell l0" x="760" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.58s forwards"/>
+<rect class="cell l0" x="760" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.59s forwards"/>
+<rect class="cell l4" x="760" y="172" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.60s forwards"/>
+<rect class="cell l1" x="760" y="187" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.61s forwards"/>
+<rect class="cell l0" x="760" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.62s forwards"/>
+<rect class="cell l0" x="775" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.59s forwards"/>
+<rect class="cell l1" x="775" y="127" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.60s forwards"/>
+<rect class="cell l4" x="775" y="142" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.61s forwards"/>
+<rect class="cell l4" x="775" y="157" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.62s forwards"/>
+<rect class="cell l3" x="775" y="172" width="12" height="12" rx="2.5" fill="#26a641" style="animation:cell .55s ease-out 7.63s forwards"/>
+<rect class="cell l4" x="775" y="187" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.64s forwards"/>
+<rect class="cell l0" x="775" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.65s forwards"/>
+<rect class="cell l0" x="790" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.62s forwards"/>
+<rect class="cell l1" x="790" y="127" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.63s forwards"/>
+<rect class="cell l0" x="790" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.64s forwards"/>
+<rect class="cell l2" x="790" y="157" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 7.66s forwards"/>
+<rect class="cell l4" x="790" y="172" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.67s forwards"/>
+<rect class="cell l0" x="790" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.68s forwards"/>
+<rect class="cell l0" x="790" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.69s forwards"/>
+<rect class="cell l0" x="805" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.66s forwards"/>
+<rect class="cell l4" x="805" y="127" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.67s forwards"/>
+<rect class="cell l0" x="805" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.68s forwards"/>
+<rect class="cell l0" x="805" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.69s forwards"/>
+<rect class="cell l0" x="805" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.70s forwards"/>
+<rect class="cell l0" x="805" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.71s forwards"/>
+<rect class="cell l0" x="805" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.72s forwards"/>
+<rect class="cell l0" x="820" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.69s forwards"/>
+<rect class="cell l0" x="820" y="127" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.70s forwards"/>
+<rect class="cell l0" x="820" y="142" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.71s forwards"/>
+<rect class="cell l0" x="820" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.72s forwards"/>
+<rect class="cell l0" x="820" y="172" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.73s forwards"/>
+<rect class="cell l0" x="820" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.75s forwards"/>
+<rect class="cell l0" x="820" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.76s forwards"/>
+<rect class="cell l0" x="835" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.72s forwards"/>
+<rect class="cell l1" x="835" y="127" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.74s forwards"/>
+<rect class="cell l1" x="835" y="142" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.75s forwards"/>
+<rect class="cell l0" x="835" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.76s forwards"/>
+<rect class="cell l2" x="835" y="172" width="12" height="12" rx="2.5" fill="#006d32" style="animation:cell .55s ease-out 7.77s forwards"/>
+<rect class="cell l0" x="835" y="187" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.78s forwards"/>
+<rect class="cell l0" x="835" y="202" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.79s forwards"/>
+<rect class="cell l0" x="850" y="112" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.76s forwards"/>
+<rect class="cell l1" x="850" y="127" width="12" height="12" rx="2.5" fill="#0e4429" style="animation:cell .55s ease-out 7.77s forwards"/>
+<rect class="cell l4" x="850" y="142" width="12" height="12" rx="2.5" fill="#39d353" style="animation:cell .55s ease-out 7.78s forwards"/>
+<rect class="cell l0" x="850" y="157" width="12" height="12" rx="2.5" fill="#161b22" style="animation:cell .55s ease-out 7.79s forwards"/>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.190s forwards">40</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.281s forwards">77</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.372s forwards">111</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.463s forwards">142</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.554s forwards">169</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.645s forwards">194</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.735s forwards">217</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.826s forwards">236</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 6.917s forwards">254</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.008s forwards">269</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.099s forwards">283</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.190s forwards">294</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.281s forwards">304</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.372s forwards">312</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.463s forwards">318</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.554s forwards">324</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.645s forwards">328</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.735s forwards">331</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.826s forwards">333</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 7.917s forwards">334</text>
+<text class="m v st" x="70" y="244" style="font-weight:700;animation:st 0.091s steps(1) 8.008s forwards">335</text>
+<text class="m v fin" x="70" y="244" style="font-weight:700;animation:fade .05s 8.099s forwards">336</text>
+<g class="f" style="animation:fade 0.5s ease-out 6.49s forwards"><text class="m mu" x="99" y="244">contributions in the last year</text></g>
+<g class="f" style="animation:fade 0.5s ease-out 7.19s forwards"><text class="m mu" x="764" y="243" text-anchor="end" style="font-size:10px">Less</text><rect x="770" y="233" width="12" height="12" rx="2.5" fill="#161b22"/><rect x="785" y="233" width="12" height="12" rx="2.5" fill="#0e4429"/><rect x="800" y="233" width="12" height="12" rx="2.5" fill="#006d32"/><rect x="815" y="233" width="12" height="12" rx="2.5" fill="#26a641"/><rect x="830" y="233" width="12" height="12" rx="2.5" fill="#39d353"/><text class="m mu" x="850" y="243" style="font-size:10px">More</text></g>
+</svg>

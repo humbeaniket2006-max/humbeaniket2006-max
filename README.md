@@ -2,15 +2,37 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
-    <img alt="Profile card for Aniket Humbe: Data Science student at IIT Madras working on edge AI, computer vision, LLM tooling and automation at Hexalog" src="./assets/dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+    <img alt="Profile card for Aniket Humbe: Data Science student at IIT Madras working on edge AI, computer vision, LLM tooling and automation at Hexalog" src="./assets/terminal-dark.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
+    <img alt="GitHub contribution heatmap for the last year" src="./assets/contributions-dark.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
+    <img alt="GitHub stats: streaks, active days, best day and contributions per month, next to an ASCII portrait" src="./assets/stats-dark.svg" width="100%">
   </picture>
 </p>
 
 **Currently building:** automation and AI-agent tooling at Hexalog, plus [EHMR AI](https://github.com/humbeaniket2006-max/My_EHMR).
 
-### Featured projects
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg">
+    <img alt="Featured projects" src="./assets/projects-dark.svg">
+  </picture>
+</p>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -21,7 +43,13 @@
 | **Freshsales MCP** (private) | Read-only MCP server that exposes live Freshsales CRM data to Claude, with a two-step propose-and-approve flow on every tool call. | TypeScript, MCP SDK |
 | [**CRM Lead Service**](https://github.com/humbeaniket2006-max/Website--CRM) | Microservice that writes website lead form submissions directly into Freshsales CRM. | Node.js, Express |
 
-### Stack
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
+    <img alt="Stack" src="./assets/stack-dark.svg">
+  </picture>
+</p>
 
 **Languages** &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -38,7 +66,13 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 <img src="https://img.shields.io/badge/OpenVINO-00C7FD?style=flat-square&logo=intel&logoColor=white" alt="OpenVINO">
 
-### Contact
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/links-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/links-light.svg">
+    <img alt="Links" src="./assets/links-dark.svg">
+  </picture>
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-humbeaniket2006--max-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/humbeaniket2006-max)
 [![Email](https://img.shields.io/badge/Email-humbeaniket2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:humbeaniket2006@gmail.com)
