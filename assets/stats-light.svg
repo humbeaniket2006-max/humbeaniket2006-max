@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 430" width="900" height="430" role="img" aria-labelledby="t d">
 <title id="t">GitHub stats</title>
-<desc id="d">Contribution stats. Current streak 3 days, longest streak 6 days, 337 contributions in the last year, 80 active days, best day 21 contributions, 4.2 per active day. Monthly bar chart of contributions.</desc>
+<desc id="d">Contribution stats. Current streak 3 days, longest streak 6 days, 338 contributions in the last year, 80 active days, best day 21 contributions, 4.2 per active day. Monthly bar chart of contributions.</desc>
 <style>
 .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
 .k{fill:#0a7f76;font-size:12px;font-weight:700}
@@ -96,7 +96,7 @@
 <g class="f" style="animation:fade 0.4s ease-out 8.50s forwards"><rect x="636" y="62" width="228" height="72" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><text class="m mu" x="648" y="80" style="font-size:10px">$ longest streak</text><text class="m mu" x="648" y="125" style="font-size:10px">Apr 24 to Apr 29</text></g>
 <g class="f" style="animation:fade 0.5s ease-out 8.65s forwards"><text class="m big" x="648" y="108" fill="#1a7f37">6<tspan class="mu" dx="6" style="font-weight:400">days</tspan></text></g>
 <g class="f" style="animation:fade 0.4s ease-out 8.80s forwards"><rect x="396" y="142" width="228" height="72" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><text class="m mu" x="408" y="160" style="font-size:10px">$ contributions</text><text class="m mu" x="408" y="205" style="font-size:10px">Oct 5 to Oct 7</text></g>
-<g class="f" style="animation:fade 0.5s ease-out 8.95s forwards"><text class="m big" x="408" y="188" fill="#1f2328">337<tspan class="mu" dx="6" style="font-weight:400">last year</tspan></text></g>
+<g class="f" style="animation:fade 0.5s ease-out 8.95s forwards"><text class="m big" x="408" y="188" fill="#1f2328">338<tspan class="mu" dx="6" style="font-weight:400">last year</tspan></text></g>
 <g class="f" style="animation:fade 0.4s ease-out 9.10s forwards"><rect x="636" y="142" width="228" height="72" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><text class="m mu" x="648" y="160" style="font-size:10px">$ active days</text><text class="m mu" x="648" y="205" style="font-size:10px">22% of the window</text></g>
 <g class="f" style="animation:fade 0.5s ease-out 9.25s forwards"><text class="m big" x="648" y="188" fill="#1f2328">80<tspan class="mu" dx="6" style="font-weight:400">/ 368 days</tspan></text></g>
 <g class="f" style="animation:fade 0.4s ease-out 9.40s forwards"><rect x="396" y="222" width="228" height="72" rx="8" fill="#f6f8fa" stroke="#d0d7de"/><text class="m mu" x="408" y="240" style="font-size:10px">$ best day</text><text class="m mu" x="408" y="285" style="font-size:10px">Oct 6</text></g>
@@ -128,6 +128,6 @@
 <g class="f" style="animation:fade 0.3s ease-out 11.30s forwards"><text class="m mu" x="766.6" y="380" text-anchor="middle" style="font-size:8px">A</text></g>
 <rect class="bar" x="789.8" y="343.9" width="22.0" height="26.1" rx="2" fill="#30a14e" style="animation:grow .7s cubic-bezier(.2,.8,.2,1) 11.07s forwards"/>
 <g class="f" style="animation:fade 0.3s ease-out 11.37s forwards"><text class="m mu" x="800.8" y="380" text-anchor="middle" style="font-size:8px">S</text></g>
-<rect class="bar" x="823.9" y="356.2" width="22.0" height="13.8" rx="2" fill="#30a14e" style="animation:grow .7s cubic-bezier(.2,.8,.2,1) 11.14s forwards"/>
+<rect class="bar" x="823.9" y="355.7" width="22.0" height="14.3" rx="2" fill="#30a14e" style="animation:grow .7s cubic-bezier(.2,.8,.2,1) 11.14s forwards"/>
 <g class="f" style="animation:fade 0.3s ease-out 11.44s forwards"><text class="m mu" x="834.9" y="380" text-anchor="middle" style="font-size:8px">O</text></g>
 </svg>
